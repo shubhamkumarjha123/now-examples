@@ -1,0 +1,13 @@
+{
+  "name": "my_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "zola build",
+    "dev": "zola serve --port $PORT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
